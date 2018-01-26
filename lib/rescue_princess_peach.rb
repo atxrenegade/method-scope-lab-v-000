@@ -1,5 +1,4 @@
-def rescue_princess_peach(message)
+def rescue_princess_peach
   status = "needs rescue"
-  message
-end  
-
+  status
+end
